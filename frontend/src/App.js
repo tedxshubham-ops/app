@@ -19,7 +19,7 @@ import {
   BarChart3, Sparkles, Globe, Brain, Network,
   Settings, ChevronRight, Clock, CheckCircle,
   AlertCircle, Loader2, Eye, Copy, Star,
-  Wand2, Fire, Lightning, Atom, Hexagon,
+  Wand2, Fire, Atom, Hexagon,
   Command, Layers, Gauge, Wifi, Radio,
   Target, Crosshair, Radar, Orbit, Satellite,
   Fingerprint, Scan, Waves, Signal
