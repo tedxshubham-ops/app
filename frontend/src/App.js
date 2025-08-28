@@ -1123,7 +1123,7 @@ function App() {
                   >
                     {isGenerating ? (
                       <>
-                        <Lightning size={20} className="mr-2 animate-spin" />
+                        <Zap size={20} className="mr-2 animate-spin" />
                         ⚡ ULTRA ACTIVE
                       </>
                     ) : (
