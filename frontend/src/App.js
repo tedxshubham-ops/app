@@ -248,7 +248,7 @@ const AgentCard = ({ agent, isActive, progress, index }) => {
         {isActive && (
           <div className="space-y-3">
             <div className="flex items-center gap-2 text-xs font-medium text-blue-600 dark:text-blue-400">
-              <Pulse size={12} className="animate-pulse" />
+              <Activity size={12} className="animate-pulse" />
               <span className="animate-text-shimmer">Processing neural pathways...</span>
             </div>
             <Progress value={progress} className="h-2 bg-gray-200 dark:bg-gray-700">
