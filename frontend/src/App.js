@@ -22,7 +22,7 @@ import {
   Wand2, Fire, Lightning, Atom, Hexagon,
   Command, Layers, Gauge, Wifi, Radio,
   Target, Crosshair, Radar, Orbit, Satellite,
-  Fingerprint, Scan, Pulse, Waves, Signal
+  Fingerprint, Scan, Waves, Signal
 } from 'lucide-react';
 
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
